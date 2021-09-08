@@ -20,3 +20,8 @@ Double.MAX_VALUE + 1
 
 Use *JSHELL* to experiment with Java
 
+### This time, edits on my computer
+* get code from Github
+* change directory to the one from the step above
+* modify text
+* send it back to GitHub
